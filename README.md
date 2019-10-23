@@ -1,5 +1,8 @@
 # Swift-Piscine-Curriculim-at-42
 
+I was asked by staff to make new curriculim for swift at my school.  
+This was what was created, so far we have completed the alpha test and I am implemeting changes based on their feedback, the initial upload will be the first version so we can observe changes made, all future updates and changes will be made here.  
+
 ## Core Philosophy: Build Projects Worth Showing Off That Also Teach
 I have a signature dish that I like to cook, especially to impress dates. I learned it from my dad, he learned it from my great uncle. It seems fancy, it has a high presentation value, a french sounding name, but is in actuality not complicated to make. Chicken Cordon Bleu. It's never not been a hit. It’s the optimal amount of being impressive while simultaneously not an unreasonable ammount of effort.  
   
