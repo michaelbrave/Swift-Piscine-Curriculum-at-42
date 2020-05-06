@@ -7,7 +7,6 @@ Piscine Swift - Day 00
 #### 42 Staff [pedago@42.fr](mailto:pedago@42.fr)
 
 _Summary: This document contains the subject for Day 00 for the "Piscine Swift" from 42_
-\pagebreak
 
 # Contents
 
@@ -27,8 +26,6 @@ _Summary: This document contains the subject for Day 00 for the "Piscine Swift" 
 
 ### VIII Bonus: Adding Animations & Graphics
 
-\pagebreak
-
 # Chapter I
 
 # Foreword
@@ -40,7 +37,6 @@ It’s hard for me to explain what swift as a language is, harder still to separ
 For me Swift has been a joy to learn and to use and I hope you enjoy learning this language as I have. Let’s make some apps.
 
 -Mike Brave
-\pagebreak
 
 # Chapter II
 
@@ -75,7 +71,6 @@ For me Swift has been a joy to learn and to use and I hope you enjoy learning th
 - You can discuss on the Piscine forum of your Intra!
 
 - By Odin, by Thor! Use your brain!!!
-  \pagebreak
 
 # Chapter III
 
@@ -86,7 +81,6 @@ First we will be learning how to use Xcode, although building things in swift wi
 We will build some simple applications today learning how to use Xcode’s Auto-layout and the swift language itself.
 
 Each assignment was designed to build on the previous assignments knowledge and culminate in a portfolio piece. Those who complete the day’s assignments will have a portfolio piece that reminds the user to drink enough water everyday and keep track of how much we’ve consumed.
-\pagebreak
 
 # Chapter IV
 
@@ -115,7 +109,6 @@ For this first exercise we are going to create a new playground and learn some o
 Playgrounds can function much like scratch paper for programming out concepts. We will not use them later but felt there should be at least an introduction to them. This is also a great chance to play with the language before getting bogged down in the nuances of xcode.
 
 In the playground we are going to create and use a class that will include 2 variables, a constant and a function (think of the class filling a similar role to a struct). We will set the values to the variables after but for now set them to be string type. Then at the end call the function which will display something along the lines of "Hi my name is (student) I go to school at (school) and I am level (level)".
-\pagebreak
 
 # Chapter V
 
@@ -144,7 +137,6 @@ For this first exercise we are learning to create a project (a single view app),
 Create a new iOS app with a UIButton in the main view. When the button is clicked, a message will be displayed in Xcode’s debug console and in a UILabel.
 
 The message can say whatever you like, I recommend telling yourself how awesome you are.
-\pagebreak
 
 # Chapter VI
 
@@ -177,7 +169,6 @@ Our app should have as follows:
 2. A UILabel with text inside of it, that changes fonts depending on which button was pressed.
 
 Pro Tip: Look up StackView, and see if you want to use it with autolayout.
-\pagebreak
 
 # Chapter VII
 
@@ -214,7 +205,6 @@ Our App Should:
 - Reset the amount at the end of the day
 
 - Use notifications to remind you to drink more water (on a schedule).
-  \pagebreak
 
 # Chapter VIII
 
@@ -239,4 +229,3 @@ Our App Should:
 </table>
 
 Your stay hydrated app is your first IOS portfolio piece, make it look nice, give it the bells and whistles you wish it had, add some neat animations. Make it shine.
-\pagebreak
